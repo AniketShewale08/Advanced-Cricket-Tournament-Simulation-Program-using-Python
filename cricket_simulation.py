@@ -227,7 +227,7 @@ if __name__ == "__main__":
     team_a = []
 
     # name, bowling, batting, fielding, running, experience
-    player1 = Player("Faf du Plessis", 0.3, 0.9, 0.8, 0.9, 0.9) 
+    player1 = Player("Faf du Plessis", 0.3, 0.9, 0.8, 0.9, 10) 
     player2 = Player("Virat Kohli", 0.4, 10, 0.9, 0.9, 0.9)
     player3 = Player("Glenn Maxwell", 0.8, 0.9, 0.8, 0.7, 0.9)
     player4 = Player("Mahipal Lomror", 0.8, 0.7, 0.6, 0.6, 0.6)
